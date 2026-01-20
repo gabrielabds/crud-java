@@ -1,0 +1,3 @@
+✍️ CRIADO   | ID: 1 | Nome: SDK | Categoria: SWDJ | Quantidade: 1 | Preço: R$ 2
+✍️ CRIADO   | ID: 1 | Nome: MAÇÃ | Categoria: FRUTA | Quantidade: 9 | Preço: R$ 99
+🚮 EXCLUIDO | ID: 1 | Nome: MAÇÃ | Categoria: FRUTA | Quantidade: 9 | Preço: R$ 99
