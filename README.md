@@ -40,6 +40,7 @@ permitindo a manipulação de dados por meio de um menu interativo que roda no c
   
 ---
 Alguma sugestão de melhoria? entre em contato comigo pelo linkedin!!
+
 📲 www.linkedin.com/in/gabriela-barbosa-de-souzagbs
 
 #### 👩‍💻 Feito por: Gabriela Barbosa de Souza.
