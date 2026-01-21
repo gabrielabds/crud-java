@@ -14,17 +14,25 @@ permitindo a manipulação de dados por meio de um menu interativo que roda no c
 - 🗑️ Deletar registro.
 - 🎬 Encerrar sessão.
 - 👆 Menu interativo.
-- 📂 Armazenagem em arquivo de texto.
+- 📂 Armazenamento em arquivo de texto.
 
 ## 🛠️ Tecnologias Utilizadas
 - Java.
 - Eclipse IDE.
 - Git e GitHub.
-- Latex (documentação do projeto).
+- LaTeX (documentação do projeto).
 
 ## ⏯️ Como Executar
+Antes de executar o projeto, é necessário ter instalado na máquina: o Java JDK e uma IDE Java.
 
+1. Baixe o projeto como ZIP diretamente pelo GitHub.
+2. Descompacte o projeto.
+3. Abra o projeto na IDE.
+4. Localize o arquivo `codigoJava.java`
+5. Clique com o botão direito sobre o arquivo
+6. Selecione **Run As > Java Application**
 
+Dessa forma o sistema será executado no console da IDE, permitindo que o usuário interaja com o programa.
 
 ## 📚 Aprendizados
 - Lógica de programação.
@@ -35,14 +43,14 @@ permitindo a manipulação de dados por meio de um menu interativo que roda no c
 
 ## 🚀 Melhorias
 - Implementação de banco de dados para armazenar os dados com segurança.
-- Implementação de interface gráfica para melhorar a experiencia do usuário.
-- Implementação da estrutura MVC (Model, Controler e View) para otimizar a organização.
+- Implementação de interface gráfica para melhorar a experiência do usuário.
+- Implementação da estrutura MVC (Model, Controller e View) para otimizar a organização.
   
 ---
-Alguma sugestão de melhoria? entre em contato comigo pelo linkedin!!
+💬 Algum feedback ou sugestão de melhoria? entre em contato comigo pelo linkedin!!
 
 📲 www.linkedin.com/in/gabriela-barbosa-de-souzagbs
 
-#### 👩‍💻 Feito por: Gabriela Barbosa de Souza.
+#### 👩‍💻 Desenvolvido por: Gabriela Barbosa de Souza.
   
 
